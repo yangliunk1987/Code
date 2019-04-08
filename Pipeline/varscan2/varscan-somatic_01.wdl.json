@@ -1,0 +1,12 @@
+{
+  "varscan2_somatic_01.annotateGene": "String",
+  "varscan2_somatic_01.bed": "String",
+  "varscan2_somatic_01.normal": "String",
+  "varscan2_somatic_01.ref": "String",
+  "varscan2_somatic_01.tumor": "String",
+  "varscan2_somatic_01.inputDir": "String",
+  "varscan2_somatic_01.accessBed": "String",
+  "varscan2_somatic_01.outputDir": "String",
+  "varscan2_somatic_01.name": "String"
+}
+
