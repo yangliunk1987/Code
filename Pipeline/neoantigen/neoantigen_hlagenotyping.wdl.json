@@ -1,0 +1,8 @@
+{
+  "neoantigen_halgenotyping.outputDir": "/home/yangliu/project/neoantigen/daijianguo/",
+  "neoantigen_halgenotyping.f1": "CCW0040_T_R1.fq.gz",
+  "neoantigen_halgenotyping.f2": "CCW0040_T_R2.fq.gz",
+  "neoantigen_halgenotyping.name": "daijianguo_T",
+  "neoantigen_halgenotyping.inputDir": "/data/research/cancer_vaccine/DJG/WES/"
+}
+
