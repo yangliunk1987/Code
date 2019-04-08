@@ -1,0 +1,7 @@
+{
+  "neoantigen_quantify.f1": "/data/research/cancer_vaccine/DJG/RNA-seq/daijianguo_S1_L003_R1_001.fastq.gz",
+  "neoantigen_quantify.f2": "/data/research/cancer_vaccine/DJG/RNA-seq/daijianguo_S1_L003_R2_001.fastq.gz",
+  "neoantigen_quantify.name": "daijianguo",
+  "neoantigen_quantify.outputDir": "/home/yangliu/project/neoantigen/daijianguo/"
+}
+
